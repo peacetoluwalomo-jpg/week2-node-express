@@ -1,0 +1,14 @@
+{
+  "name": "week2-node-express",
+  "version": "1.0.0",
+  "description": "Week 2 Node.js Express API assignment",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
